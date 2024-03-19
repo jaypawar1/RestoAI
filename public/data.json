@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Butter Chicken",
+        "description": "Tender chicken cooked in a creamy tomato sauce.",
+        "price": "225.00",
+        "tags": ["non-vegetarian", "gluten-free", "classic"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 2,
+        "name": "Palak Paneer",
+        "description": "Spinach and paneer cheese cooked with spices.",
+        "price": "180.00",
+        "tags": ["vegetarian", "gluten-free", "healthy"],
+        "img":"https://timmitime.com/wp-content/uploads/2020/07/img_2429.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Chole Bhature",
+        "description": "Spicy chickpeas curry served with fried bread.",
+        "price": "150.00",
+        "tags": ["vegetarian", "classic", "spicy"],
+        "img":"https://media.vogue.in/wp-content/uploads/2020/08/chole-bhature-recipe.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Masala Dosa",
+        "description": "Crispy rice batter crepes filled with spicy mashed potatoes.",
+        "price": "120.00",
+        "tags": ["vegetarian", "vegan", "gluten-free"],
+        "img":"https://i.ytimg.com/vi/CCab5oh0ZOc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA730YKb2VkyJ2V4Q-R9cICWRXs9w"
+    },
+    {
+        "id": 5,
+        "name": "Biryani",
+        "description": "Flavorful basmati rice dish with spices and meat or vegetables.",
+        "price": "190.00",
+        "tags": ["non-vegetarian", "vegetarian", "spicy"],
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg/800px-%22Hyderabadi_Dum_Biryani%22.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rogan Josh",
+        "description": "Aromatic lamb curry cooked with a blend of spices.",
+        "price": "250.00",
+        "tags": ["non-vegetarian", "gluten-free", "classic"],
+        "img":"https://www.yummytummyaarthi.com/wp-content/uploads/2014/10/1-13.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Pav Bhaji",
+        "description": "Spicy blend of vegetables served with buttered bread rolls.",
+        "price": "140.00",
+        "tags": ["vegetarian", "spicy", "street food"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 8,
+        "name": "Dal Makhani",
+        "description": "Creamy lentils cooked with butter and spices.",
+        "price": "170",
+        "tags": ["vegetarian", "gluten-free", "classic"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 9,
+        "name": "Pani Puri",
+        "description": "Hollow, crispy balls filled with spicy tamarind water and chickpeas.",
+        "price": "25.00",
+        "tags": ["vegetarian", "vegan", "street food"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 10,
+        "name": "Rajma Chawal",
+        "description": "Red kidney beans curry served with rice.",
+        "price": "110.00",
+        "tags": ["vegetarian", "gluten-free", "comfort food"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 11,
+        "name": "Malai Kofta",
+        "description": "Vegetable and cheese balls in a creamy gravy.",
+        "price": "250.00",
+        "tags": ["vegetarian", "classic"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 12,
+        "name": "Samosa",
+        "description": "Fried pastry filled with spiced potatoes and peas.",
+        "price": "20.00",
+        "tags": ["vegetarian", "vegan", "street food"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 13,
+        "name": "Aloo Paratha",
+        "description": "Wheat bread stuffed with spicy potato filling.",
+        "price": "65.00",
+        "tags": ["vegetarian", "vegan", "breakfast"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 14,
+        "name": "Paneer Tikka",
+        "description": "Marinated paneer grilled to perfection.",
+        "price": "150.00",
+        "tags": ["vegetarian", "gluten-free", "appetizer"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 15,
+        "name": "Chicken Tikka Masala",
+        "description": "Grilled chicken chunks in a spicy sauce.",
+        "price": "260.00",
+        "tags": ["non-vegetarian", "gluten-free", "classic"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 16,
+        "name": "Lamb Vindaloo",
+        "description": "Spicy lamb curry with a tangy vinegar sauce.",
+        "price": "280",
+        "tags": ["non-vegetarian", "gluten-free", "spicy"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 17,
+        "name": "Fish Curry",
+        "description": "Fish cooked in a spicy and tangy curry sauce.",
+        "price": "225.00",
+        "tags": ["non-vegetarian", "gluten-free", "classic"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 18,
+        "name": "Baingan Bharta",
+        "description": "Mashed eggplant cooked with spices.",
+        "price": "125.00",
+        "tags": ["vegetarian", "vegan", "gluten-free"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 19,
+        "name": "Gulab Jamun",
+        "description": "Soft, spongy balls soaked in rose-flavored syrup.",
+        "price": "50.00",
+        "tags": ["vegetarian", "dessert"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 20,
+        "name": "Ras Malai",
+        "description": "Cottage cheese balls in a creamy milk sauce.",
+        "price": "90.00",
+        "tags": ["vegetarian", "dessert"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 21,
+        "name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices, then grilled.",
+        "price": "210.00",
+        "tags": ["non-vegetarian", "gluten-free", "classic"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 22,
+        "name": "Naan",
+        "description": "Soft, fluffy bread baked in a clay oven.",
+        "price": "30.00",
+        "tags": ["vegetarian", "side"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 23,
+        "name": "Chicken 65",
+        "description": "Spicy, deep-fried chicken dish.",
+        "price": "160.00",
+        "tags": ["non-vegetarian", "spicy", "appetizer"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 24,
+        "name": "Kadai Paneer",
+        "description": "Paneer cooked with bell peppers and tomatoes in a kadai.",
+        "price": "250.00",
+        "tags": ["vegetarian", "gluten-free", "spicy"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 25,
+        "name": "Mango Lassi",
+        "description": "Refreshing yogurt-based mango drink.",
+        "price": "60.00",
+        "tags": ["vegetarian", "gluten-free", "beverage"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 26,
+        "name": "Bhindi Masala",
+        "description": "Okra cooked with onions, tomatoes, and spices.",
+        "price": "120.00",
+        "tags": ["vegetarian", "vegan", "gluten-free"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 27,
+        "name": "Chicken Biryani",
+        "description": "Spicy chicken and rice dish cooked with saffron and herbs.",
+        "price": "250.00",
+        "tags": ["non-vegetarian", "classic", "spicy"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 28,
+        "name": "Veg Pulao",
+        "description": "Basmati rice cooked with mixed vegetables and spices.",
+        "price": "200.00",
+        "tags": ["vegetarian", "vegan", "gluten-free"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 29,
+        "name": "Keema Samosa",
+        "description": "Fried pastry filled with spiced minced meat.",
+        "price": "65.00",
+        "tags": ["non-vegetarian", "appetizer", "spicy"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    },
+    {
+        "id": 30,
+        "name": "Mutter Paneer",
+        "description": "Paneer and peas cooked in a tomato-based sauce.",
+        "price": "210.00",
+        "tags": ["vegetarian", "gluten-free", "classic"],
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+    }
+]

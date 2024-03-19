@@ -1,4 +1,4 @@
-// File: C:\Sachin\Web Development\PixelMize\RestoAI\restoai\src\app\Dashboard\page.js
+// File: C:\Sachin\Web Development\PixelMize\RestoAI\RestoAI\src\app\Dashboard\page.js
 import * as entry from '../../../../src/app/Dashboard/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

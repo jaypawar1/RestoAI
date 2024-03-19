@@ -55,7 +55,7 @@ const Linechart = () => {
 
     return (
         <div className="w-[30vw] flex justify-center items-center">
-            <canvas ref={chartRef} style={{ width: "19vw", height: "75px" }} />
+            <canvas ref={chartRef} style={{ width: "19vw", height: "60px" }} />
         </div>
     );
 };
